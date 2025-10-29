@@ -102,3 +102,25 @@ node dist/deploy-commands.js
 
 1. `src/commands` 폴더에 새 커맨드 파일을 추가합니다. 기존 `ping.ts`를 참고하세요.
 2. `src/commands/index.ts`에서 새 커맨드를 내보내도록 추가합니다.
+
+## 출처(Attribution)
+
+이 템플릿을 기반으로 한 프로젝트는 원저작자 표기(출처)를 남기면 됩니다. 예시 문구:
+
+```
+This project is based on dishostkr/template-djs-boilerplate (https://github.com/dishostkr/template-djs-boilerplate)
+```
+
+또는 한글 문구로:
+
+```
+이 프로젝트는 dishostkr/template-djs-boilerplate를 기반으로 합니다 (https://github.com/dishostkr/template-djs-boilerplate)
+```
+
+출처 표기를 하려면 README, 프로젝트 홈페이지, 혹은 배포 패키지의 적절한 위치에 위 문구를 포함시키면 됩니다.
+
+## 라이선스
+
+이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 리포지토리 루트의 `LICENSE` 파일을 확인하세요.
+
+요약: 이 템플릿을 사용한 프로젝트는 원저작자 표기(출처)를 남기면 됩니다(MIT의 저작권 고지 유지).
